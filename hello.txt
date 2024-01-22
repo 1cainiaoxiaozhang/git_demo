@@ -1,4 +1,4 @@
-hello Git!1234567a
+hello Git!123456ab
 hello Git!123456
 hello Git conflict!
 hello Git conflict!
